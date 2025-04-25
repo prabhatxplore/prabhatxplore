@@ -16,7 +16,7 @@
 
 ### 🧠 Languages & Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -29,15 +29,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/prabhat-bk-4876402a6/)
 - 📬 Email: *(you can add it here if you'd like)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhatbk&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatbk&theme=radical" width="48%" />
-</p>
 
 ---
 
